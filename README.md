@@ -14,14 +14,14 @@
 
 - Download the [3D models](https://drive.google.com/file/d/1xva5lNi6kNoubPUL0KQ0YvST-ZIC4ml2/view?usp=sharing) (3GB), then extract and copy them to your Gazebo folder located at `/home/<use_name>/.gazebo/models`.
 
-- Copy world files inside world_files folder into your project folder where you should use launch file to load world file. 
+- Copy world files inside `world_files` folder into your catkin folder. 
 
 - The example world file is in `navigation/simulation-env/world_files` folder.
 
 - Example command to run: `rosrun gazebo_ros gazebo world_files/house4.world`
 
 
-### How to generate domain randomisation with random texture for models 
+### How to generate domain randomisation with random texture
 
 - Make sure you pull all models from this git and copy them into your Gazebo model folder (which is located in `/.gazebo/models`)
 
