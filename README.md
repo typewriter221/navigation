@@ -71,6 +71,8 @@ j| decrease turning radius by 10 or increase turning degree
 l| increase turning radius by 10 or decrease turning degree
 
 ### Dataset
-- Download the navigation dataset from [here]() ()
+- Download the navigation dataset from [here](https://drive.google.com/file/d/168V_f4a1wo6H-fHTkVQRvxZkthaYfEdH/view?usp=sharing) (58GB)
 
+
+### Training
 
