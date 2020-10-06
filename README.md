@@ -10,9 +10,9 @@
 - Gazebo 7/8
 
 
-### How to load these world files.
+### How to load the world files
 
-- Download the [3D models](https://drive.google.com/file/d/1xva5lNi6kNoubPUL0KQ0YvST-ZIC4ml2/view?usp=sharing), then extract and copy them to your Gazebo folder located at `/home/<use_name>/.gazebo/models`.
+- Download the [3D models](https://drive.google.com/file/d/1xva5lNi6kNoubPUL0KQ0YvST-ZIC4ml2/view?usp=sharing) (3GB), then extract and copy them to your Gazebo folder located at `/home/<use_name>/.gazebo/models`.
 
 - Copy world files inside world_files folder into your project folder where you should use launch file to load world file. 
 
@@ -69,5 +69,8 @@ i| increase velocity by 1
 k| decrease velocity by 1
 j| decrease turning radius by 10 or increase turning degree
 l| increase turning radius by 10 or decrease turning degree
+
+### Traing
+- Downloadd the training data from [here]() (
 
 
