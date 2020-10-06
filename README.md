@@ -18,7 +18,7 @@
 
 - The example world file is in `navigation/simulation-env/world_files` folder.
 
-- Example command to run: `rosrun gazebo_ros gazebo world_files/house4.world`
+- Example command to run: `rosrun gazebo_ros gazebo world_files/house4.world`.
 
 
 ### How to generate domain randomisation with random texture
