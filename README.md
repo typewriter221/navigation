@@ -37,24 +37,24 @@
 
 
 ### Build BeetleBot
-    $ cd `navigation/beetlebot`
+    $ cd navigation/beetlebot
 
-    $ `catkin_make`
+    $ catkin_make
 
-    $ `. devel/setup.bash`
+    $ . devel/setup.bash
 
-    $ `roslaunch beetlebot_gazebo beetlebot_world.launch`
+    $ roslaunch beetlebot_gazebo beetlebot_world.launch
 
     (Wait until the world finishes loading in the gazebo)
 
-    $ `roslaunch beetlebot_gazebo load_robot.launch`
+    $ roslaunch beetlebot_gazebo load_robot.launch
     
 ### Control robot with keyboard:
 
-    $ cd `navigation/beetlebot`
-    $ `. devel/setup.bash`
-    $ `cd src/beetlebot_AIOZ/beetlebot_control/scripts`
-    $ `python keyboard_controller.py`
+    $ cd navigation/beetlebot
+    $ . devel/setup.bash
+    $ cd src/beetlebot_AIOZ/beetlebot_control/scripts
+    $ python keyboard_controller.py
 
 key| command|
 ---|---|
