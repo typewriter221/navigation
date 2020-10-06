@@ -12,9 +12,9 @@
 
 ### How to load these world files.
 
-- First, download the 3D models, then extract and copy them to your Gazebo folder located at `/home/<use_name>/.gazebo/models`.
+- Download the [3D models](https://drive.google.com/file/d/1xva5lNi6kNoubPUL0KQ0YvST-ZIC4ml2/view?usp=sharing), then extract and copy them to your Gazebo folder located at `/home/<use_name>/.gazebo/models`.
 
-- Second, copy world files inside world_files folder into your project folder where you should use launch file to load world file. 
+- Copy world files inside world_files folder into your project folder where you should use launch file to load world file. 
 
 - The example world file is in `navigation/simulation-env/world_files` folder.
 
