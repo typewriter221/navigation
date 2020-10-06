@@ -1,7 +1,7 @@
 # Autonomous Navigation with Mobile Robots using Deep Learning and the Robot Operating System	
 
 
-# System and softwares information 
+### System and softwares information 
 
 Ubuntu 16.04/18.04
 
@@ -10,7 +10,7 @@ ROS Kinetic/Medolic
 Gazebo 7/8
 
 
-# How to load these world files.
+### How to load these world files.
 
 - First, download the 3D models, then extract and copy them to your Gazebo folder located at /home/<use_name>/.gazebo/models
 
@@ -21,7 +21,7 @@ Gazebo 7/8
 - Example command to run: `rosrun gazebo_ros gazebo world_files/house4.world`
 
 
-# How to generate domain randomisation with random texture for models 
+### How to generate domain randomisation with random texture for models 
 
 - Make sure you pull all models from this git and copy them into your Gazebo model folder (which is located in /.gazebo/models)
 
