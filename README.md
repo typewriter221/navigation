@@ -70,7 +70,7 @@ k| decrease velocity by 1
 j| decrease turning radius by 10 or increase turning degree
 l| increase turning radius by 10 or decrease turning degree
 
-### Traing
-- Downloadd the training data from [here]() (
+### Dataset
+- Download the navigation dataset from [here]() ()
 
 
